@@ -1,0 +1,54 @@
+[
+ {"invoer":[
+    {
+      "persoon": 1,
+      "vrienden": [
+        2,
+        4,
+        5
+      ],
+      "nietvrienden": [
+      ]
+    },
+    {
+      "persoon": 2,
+      "vrienden": [
+        4,
+        5
+      ],
+      "nietvrienden": [
+        
+      ]
+    },
+    {
+      "persoon": 3,
+      "vrienden": [
+        1,
+        5
+      ],
+      "nietvrienden": [
+        
+      ]
+    },
+    {
+      "persoon": 4,
+      "vrienden": [
+        1,
+        3
+      ],
+      "nietvrienden": [
+      ]
+    },
+    {
+      "persoon": 5,
+      "vrienden": [
+        4,
+        3
+      ],
+      "nietvrienden": [
+        
+      ]
+    }
+  ]
+ }
+]
